@@ -1,0 +1,51 @@
+html{
+    font-family: 'Libre Franklin', sans-serif;
+}
+.pi{
+    text-align: center;
+}
+.pi h1{
+   
+    font-size: larger;
+}
+.pi h2{
+    font-size: large;
+    color:  hsl(0, 0%, 59%)
+}
+.pi span{
+    font-size: larger;
+    color: black;
+}
+ .pi input{
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+    height: 20px;
+    width: 60%;
+}
+.bt2{
+    border-radius: 20px;
+    background-color: hsl(210, 93%, 47%);
+    height: 30px;
+    width: 60%;
+    margin-bottom: 40px;
+    color: white;
+}
+.image img{
+    margin-left: 55px;
+    height: 250px;
+    width: 250px;
+    margin-bottom: 60px;
+}
+.logo{
+    margin-left: 125px;
+}
+.logo img{
+    height: 30px;
+    width: 30px;  
+}
+.copy p{
+    text-align: center;
+    font-size: small;
+    padding-bottom: 10px;
+}
